@@ -1,8 +1,9 @@
 # 🎓 C++ Exam Reviewer (ArsineK)
 
-![App Logo](https://i.ibb.co/TqT8ZqB/1000007638.jpg)
 
-**منصة مراجعة تفاعلية شاملة لمادة البرمجة الهيكلية (C++)**
+
+
+**منصة مراجعة تفاعلية شاملة لمادة  (C++)**
 Designed specifically for IT students at the Faculty of Industry and Energy Technology.
 
 ## ✨ Features
@@ -66,3 +67,6 @@ Designed specifically for IT students at the Faculty of Industry and Energy Tech
 
 ---
 *Designed with ❤️ for the students of Borg El Arab Technological University.*
+
+![ce1b62bd9681a8f0f670cf06cab3b208](https://github.com/user-attachments/assets/dcda65c9-acf7-4e26-ac62-bb19970ee80a)
+
