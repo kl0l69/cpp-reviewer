@@ -65,8 +65,10 @@ Designed specifically for IT students at the Faculty of Industry and Energy Tech
 - **GitHub:** [@kl0l69](https://github.com/kl0l69)
 - **Telegram:** [@nq703](https://t.me/nq703)
 
+
 ---
 *Designed with ❤️ for the students of Borg El Arab Technological University.*
 
-![ce1b62bd9681a8f0f670cf06cab3b208](https://github.com/user-attachments/assets/dcda65c9-acf7-4e26-ac62-bb19970ee80a)
+![1200px-New_Borg_El_Arab_Technological_University](https://github.com/user-attachments/assets/c61b24c5-2a43-4ac8-bdaf-a809a491b7c3)
+
 
